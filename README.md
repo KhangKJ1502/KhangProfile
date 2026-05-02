@@ -57,8 +57,8 @@ Tôi là một lập trình viên với niềm đam mê xây dựng các hệ th
 </div>
 <br>
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KhangKJ1502&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangKJ1502&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KhangKJ1502&show_icons=true&theme=synthwave&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangKJ1502&layout=compact&theme=synthwave&hide_border=true&border_radius=10" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
