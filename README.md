@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Khang+%F0%9F%91%8B;Full-Stack+Developer+%7C+Tech+Enthusiast;Building+Scalable+Backend+Systems" alt="Typing SVG" />
+  <!-- Đã đổi sang demolab.com để ổn định hơn -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Khang+%F0%9F%91%8B;Full-Stack+Developer+%7C+Tech+Enthusiast;Building+Scalable+Backend+Systems" alt="Typing SVG" />
   
   <p>
     <a href="https://komarev.com/ghpvc/?username=KhangKJ1502&color=F700FF&style=flat-square">
@@ -71,9 +72,12 @@ Tôi là một lập trình viên với niềm đam mê xây dựng các hệ th
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhangKJ1502&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 <br>
+
+<!-- Đã ẩn phần con rắn. Khi nào bạn setup GitHub Action xong thì mở lại đoạn này nhé!
 <div align="center">
-  <img src="https://github.com/KhangKJ1502/KhangKJ1502/blob/output/github-contribution-grid-snake.svg" alt="Commit Snake Animation" />
+  <img src="https://raw.githubusercontent.com/KhangKJ1502/KhangKJ1502/output/github-contribution-grid-snake.svg" alt="Commit Snake Animation" />
 </div>
+-->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
